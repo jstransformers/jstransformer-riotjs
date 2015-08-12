@@ -4,6 +4,9 @@
 
 [![travis build status][travis-img]][travis-url] [![coverage status][coveralls-img]][coveralls-url] [![dependency status][david-img]][david-url] [![npmjs.com][npmjs-img]][npmjs-url]
 
+**Please, you should notice the difference between [Riot.js](https://github.com/riot/riot/tree/30f1dc8c8f216b2784dd332823716a888841325c) and [Riot](https://github.com/riot/riot)!**
+
+Last version was `v1.0.4` before become React-like UI library and moved to www.npm.im/riot. There could be JSTransformer for `Riot` specially. This just use their `v1` template engine, which in other side is little bit different than `v2` template engine.
 
 ## Install
 ```
