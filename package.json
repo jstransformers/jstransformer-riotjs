@@ -1,0 +1,26 @@
+{
+  "name": "jstransformer-riotjs",
+  "version": "0.0.0",
+  "description": "Riot.js support for JSTransformers",
+  "keywords": [
+    "jstransformer",
+    "riotjs"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "test-jstransformer": "^1.0.0"
+  },
+  "scripts": {
+    "coverage": "test-jstransformer coverage",
+    "test": "test-jstransformer"
+  },
+  "repository": "jstransformers/jstransformer-riotjs",
+  "author": "JSTransformers Team (https://github.com/orgs/jstransformers/people)",
+  "license": "MIT",
+  "dependencies": {
+    "merge-deep": "^2.0.0",
+    "riotjs": "~1.0.4"
+  }
+}
