@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-riotjs",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Riot.js support for JSTransformers",
   "keywords": [
     "jstransformer",
