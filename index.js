@@ -1,12 +1,12 @@
 'use strict';
 
-var riotjs = require('riotjs');
-var merge = require('merge-deep')
+var riot = require('riot');
+var extend = require('extend-shallow')
 
 exports.name = 'riotjs';
-exports.inputFormats = ['html', 'riotjs'];
-exports.outputFormat = 'html';
+exports.inputFormats = ['riot', 'riotjs'];
+exports.outputFormat = 'js';
 
 exports.render = function (str, options, locals) {
-  return riotjs.render(str, merge({}, options, locals))
+  return riot.compile(str, extend({}, options, locals));
 };
