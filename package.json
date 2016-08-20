@@ -21,6 +21,6 @@
   "license": "MIT",
   "dependencies": {
     "extend-shallow": "^2.0.1",
-    "riot": "~2.5.0"
+    "riot": "~2.6.0"
   }
 }
