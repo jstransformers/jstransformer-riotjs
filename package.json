@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "extend-shallow": "^2.0.1",
-    "riot": "~3.0.0"
+    "riot": "~3.1.0"
   },
   "engines": {
     "node": ">=4"
