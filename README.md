@@ -1,5 +1,7 @@
 # jstransformer-riotjs
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-riotjs.svg)](https://greenkeeper.io/)
+
 [Riot.js](https://github.com/riot/riot/tree/30f1dc8c8f216b2784dd332823716a888841325c) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-riotjs/master.svg)](https://travis-ci.org/jstransformers/jstransformer-riotjs)
