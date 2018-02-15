@@ -1,7 +1,7 @@
 'use strict'
 
-var riot = require('riot')
-var extend = require('extend-shallow')
+const riot = require('riot')
+const extend = require('extend-shallow')
 
 exports.name = 'riotjs'
 exports.inputFormats = ['riot', 'riotjs']
