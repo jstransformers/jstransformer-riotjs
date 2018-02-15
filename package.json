@@ -19,8 +19,8 @@
     "posttest": "xo --space=2 --no-semicolon index.js"
   },
   "dependencies": {
-    "extend-shallow": "^2.0.1",
-    "riot": "~3.5.0"
+    "extend-shallow": "^3.0.2",
+    "riot": "~3.8.1"
   },
   "engines": {
     "node": ">=4"
