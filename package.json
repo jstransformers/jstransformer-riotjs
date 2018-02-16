@@ -11,16 +11,16 @@
   ],
   "devDependencies": {
     "test-jstransformer": "^1.0.0",
-    "xo": "^0.18.1"
+    "xo": "*"
   },
   "scripts": {
     "coverage": "test-jstransformer coverage",
     "test": "test-jstransformer",
-    "posttest": "xo --space --no-semicolon index.js"
+    "posttest": "xo --space=2 --no-semicolon index.js"
   },
   "dependencies": {
-    "extend-shallow": "^2.0.1",
-    "riot": "~3.4.0"
+    "extend-shallow": "^3.0.2",
+    "riot": "~3.8.1"
   },
   "engines": {
     "node": ">=4"
