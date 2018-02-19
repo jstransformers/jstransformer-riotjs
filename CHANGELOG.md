@@ -2,6 +2,10 @@
 All notable changes to this project will be documented in this file.
 This project adheres to [Semantic Versioning](http://semver.org/).
 
+## 0.3.0 - 2017-02-18
+- Update to `riot@~3.9.0`
+- Update Boilerplate
+
 ## 0.2.0 - 2016-06-10
 - Update to `riot@~2.4.1`
 
