@@ -1,6 +1,6 @@
 {
   "name": "jstransformer-riotjs",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Riot.js support for JSTransformers",
   "keywords": [
     "jstransformer",
@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "extend-shallow": "^3.0.2",
-    "riot": "~3.10.0"
+    "riot": "~3.11.1"
   },
   "engines": {
     "node": ">=4"
