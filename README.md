@@ -5,7 +5,7 @@
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-riotjs/master.svg)](https://travis-ci.org/jstransformers/jstransformer-riotjs)
 [![Coverage Status](https://img.shields.io/codecov/c/github/jstransformers/jstransformer-riotjs/master.svg)](https://codecov.io/gh/jstransformers/jstransformer-riotjs)
 [![Dependency Status](https://img.shields.io/david/jstransformers/jstransformer-riotjs/master.svg)](http://david-dm.org/jstransformers/jstransformer-riotjs)
-[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-riotjs.svg)](https://greenkeeper.io/)
+
 [![NPM version](https://img.shields.io/npm/v/jstransformer-riotjs.svg)](https://www.npmjs.org/package/jstransformer-riotjs)
 
 ## Note
